@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://expense-tracker-oq2z.onrender.com";
+export const API_BASE_URL = "https://expense-tracker-oq2z.onrender.com";
 
 const apiPaths = {
   LOGIN: "/api/auth/login",
